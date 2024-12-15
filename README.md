@@ -6,10 +6,15 @@ Ce projet vise à prédire les ventes à partir de données historiques. Il util
 Le projet est organisé en différentes étapes, incluant le prétraitement des données, l'entraînement des modèles et l'évaluation des performances.
 
 🚀 Fonctionnalités principales
+
 📂 Préparation des données : Collecte, nettoyage et exploration des données.
+
 🧠 Modélisation prédictive : Entraînement de modèles de Machine Learning pour les prévisions.
+
 📊 Évaluation : Analyse des performances des modèles avec des métriques telles que RMSE, MAE, etc.
+
 🛠️ Déploiement : Intégration des modèles dans un pipeline automatisé pour la prédiction continue.
+
 📁 Structure du projet
 bash
 Copier le code
